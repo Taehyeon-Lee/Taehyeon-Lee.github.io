@@ -512,6 +512,19 @@ section .container {
 }
 
 /*--------------------------------------------------------------
+# volunteer
+--------------------------------------------------------------*/
+.parent {
+  width: 350px; /* I took the width from your post and placed it in css */
+  height: 200px;
+}
+
+.parent img {
+  height: 100%;
+  width: 100%;
+}
+
+/*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
